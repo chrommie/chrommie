@@ -1,5 +1,5 @@
 **Hey 👋**<br><br>
-Discord: chromiumsucks#4268<br><br><br>
+Discord: chrom#2468<br><br><br>
 <a href="https://github.com/3060ti">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=chrommie&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="chrommie's stats" />
 </a>
